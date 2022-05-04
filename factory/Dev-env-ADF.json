@@ -1,0 +1,9 @@
+{
+	"name": "Dev-env-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a26c1330-9983-4e75-86f2-60487de0020e",
+		"tenantId": "513294a0-3e20-41b2-a970-6d30bf1546fa"
+	}
+}
